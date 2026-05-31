@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "Portfolio & risk \u2014 stress tests, scenarios, factor exposure, concentration",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/portfolio-check",
+    "./skills/portfolio-stress-test",
+    "./skills/portfolio-scenarios",
+    "./skills/factor-exposure",
+    "./skills/concentration-risk"
+  ]
+}

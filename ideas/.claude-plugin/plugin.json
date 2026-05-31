@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "ideas",
+  "version": "0.1.0",
+  "description": "Idea generation \u2014 best ideas, deep value, contrarian, compounders",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/best-ideas",
+    "./skills/contrarian-ideas",
+    "./skills/broken-growth",
+    "./skills/compounders",
+    "./skills/deep-value",
+    "./skills/upgrades-downgrades",
+    "./skills/price-target-changes",
+    "./skills/street-consensus",
+    "./skills/analyst-vs-reality",
+    "./skills/second-order-effects"
+  ]
+}

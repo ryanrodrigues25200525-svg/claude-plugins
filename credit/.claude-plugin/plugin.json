@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "credit",
+  "version": "0.1.0",
+  "description": "Credit markets \u2014 spreads, HY, IG, banking stress",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/credit-spreads",
+    "./skills/credit-risk",
+    "./skills/junk-bond-monitor",
+    "./skills/banking-stress"
+  ]
+}

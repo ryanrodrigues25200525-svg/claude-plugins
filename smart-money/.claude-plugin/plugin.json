@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "smart-money",
+  "version": "0.1.0",
+  "description": "Institutional tracking \u2014 insiders, 13F, hedge funds, activists",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/insiders",
+    "./skills/ownership",
+    "./skills/13f",
+    "./skills/activist-watch",
+    "./skills/whale-moves",
+    "./skills/hedge-fund-consensus",
+    "./skills/conviction-buys",
+    "./skills/crowded-trades",
+    "./skills/fund-clone"
+  ]
+}

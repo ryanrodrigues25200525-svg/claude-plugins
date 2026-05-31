@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "vol",
+  "version": "0.1.0",
+  "description": "Volatility & derivatives \u2014 VIX, vol surface, gamma, skew",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/volatility-dashboard",
+    "./skills/vol-crush-opportunities",
+    "./skills/gamma-watch",
+    "./skills/skew-monitor"
+  ]
+}

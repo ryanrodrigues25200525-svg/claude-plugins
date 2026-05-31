@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "flows",
+  "version": "0.1.0",
+  "description": "Capital flows \u2014 ETF flows, sector rotation, risk-on/off, breadth",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/etf-flows",
+    "./skills/sector-rotation",
+    "./skills/risk-on-risk-off",
+    "./skills/factor-rotation",
+    "./skills/global-flows",
+    "./skills/market-breadth",
+    "./skills/new-highs-lows",
+    "./skills/advance-decline",
+    "./skills/leadership-watch"
+  ]
+}

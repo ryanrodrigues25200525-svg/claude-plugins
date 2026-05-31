@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "equity",
+  "version": "0.1.0",
+  "description": "Single stock analysis \u2014 earnings, valuation, fundamentals, technicals",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/earnings",
+    "./skills/filings",
+    "./skills/fundamentals",
+    "./skills/valuation",
+    "./skills/redflags",
+    "./skills/catalysts",
+    "./skills/news",
+    "./skills/news-catalyst",
+    "./skills/risk",
+    "./skills/peer-compare",
+    "./skills/technical",
+    "./skills/trade-setup"
+  ]
+}

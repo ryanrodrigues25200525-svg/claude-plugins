@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "macro",
+  "version": "0.1.0",
+  "description": "Economics & macro \u2014 indicators, central banks, rates, inflation, recession",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/economic-indicators",
+    "./skills/country-report",
+    "./skills/macro-dashboard",
+    "./skills/macro-regime",
+    "./skills/fed-watch",
+    "./skills/central-bank",
+    "./skills/rates",
+    "./skills/inflation",
+    "./skills/recession-risk",
+    "./skills/recession-dashboard",
+    "./skills/liquidity",
+    "./skills/fx",
+    "./skills/rate-cut-monitor",
+    "./skills/regime-shift",
+    "./skills/labor-market",
+    "./skills/consumer-health",
+    "./skills/growth-nowcast",
+    "./skills/economic-calendar",
+    "./skills/economic-surprises"
+  ]
+}

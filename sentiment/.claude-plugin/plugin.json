@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "sentiment",
+  "version": "0.1.0",
+  "description": "Sentiment & narrative \u2014 WSB, Reddit, market narratives, consensus",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/wsb-dd",
+    "./skills/reddit-sentiment",
+    "./skills/hype-scan",
+    "./skills/panic-scan",
+    "./skills/market-narratives",
+    "./skills/what-matters-today",
+    "./skills/market-consensus",
+    "./skills/market-is-wrong"
+  ]
+}

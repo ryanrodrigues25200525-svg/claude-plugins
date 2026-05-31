@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "trading",
+  "version": "0.1.0",
+  "description": "Trading intelligence \u2014 options, earnings, guidance, M&A, corporate events",
+  "author": {
+    "name": "Ryan Rodrigues",
+    "email": "ryanrodrigues25200525@gmail.com"
+  },
+  "skills": [
+    "./skills/options",
+    "./skills/earnings-surprises",
+    "./skills/guidance-changes",
+    "./skills/8k-alerts",
+    "./skills/mna-watch",
+    "./skills/spin-off-watch",
+    "./skills/earnings-drift",
+    "./skills/earnings-transcript",
+    "./skills/earnings-revisions",
+    "./skills/earnings-calendar",
+    "./skills/guidance-tracker"
+  ]
+}
