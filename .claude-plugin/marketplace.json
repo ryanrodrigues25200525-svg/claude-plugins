@@ -19,7 +19,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "credit",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "equity",
@@ -33,7 +34,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "equity",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "flows",
@@ -47,7 +49,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "flows",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "macro",
@@ -61,7 +64,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "macro",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "portfolio",
@@ -75,7 +79,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "portfolio",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "quant",
@@ -89,7 +94,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "quant",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "sector",
@@ -103,7 +109,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "sector",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "sentiment",
@@ -117,7 +124,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "sentiment",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "smart-money",
@@ -131,7 +139,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "smart-money",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "trading",
@@ -145,7 +154,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "trading",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "vol",
@@ -159,7 +169,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "vol",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     },
     {
       "name": "ideas",
@@ -173,7 +184,8 @@
         "url": "https://github.com/ryanrodrigues25200525-svg/claude-plugins.git",
         "path": "ideas",
         "ref": "main"
-      }
+      },
+      "version": "0.1.1"
     }
   ]
 }
