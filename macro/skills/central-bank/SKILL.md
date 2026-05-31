@@ -1,3 +1,8 @@
+---
+name: central-bank
+description: /central-bank COUNTRY
+---
+
 # /central-bank COUNTRY
 
 Central bank policy analysis and rate outlook.

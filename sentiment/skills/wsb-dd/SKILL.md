@@ -1,3 +1,8 @@
+---
+name: wsb-dd
+description: /wsb-dd DAY|WEEK
+---
+
 # /wsb-dd DAY|WEEK
 
 WallStreetBets due diligence — filtered and analysed.

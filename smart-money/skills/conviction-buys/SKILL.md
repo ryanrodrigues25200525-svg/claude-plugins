@@ -1,3 +1,8 @@
+---
+name: conviction-buys
+description: /conviction-buys
+---
+
 # /conviction-buys
 
 Stocks where hedge funds have significantly increased position sizes.

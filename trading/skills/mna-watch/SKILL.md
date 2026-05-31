@@ -1,3 +1,8 @@
+---
+name: mna-watch
+description: /mna-watch
+---
+
 # /mna-watch
 
 Track mergers, acquisitions, and strategic transactions.

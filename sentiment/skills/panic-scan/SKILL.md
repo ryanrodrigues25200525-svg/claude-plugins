@@ -1,3 +1,8 @@
+---
+name: panic-scan
+description: /panic-scan
+---
+
 # /panic-scan
 
 Find heavily sold-off stocks — evaluate if selloff is justified or overdone.

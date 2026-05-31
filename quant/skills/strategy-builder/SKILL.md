@@ -1,3 +1,8 @@
+---
+name: strategy-builder
+description: /strategy-builder
+---
+
 # /strategy-builder
 
 Build a complete trading or investing strategy from scratch.

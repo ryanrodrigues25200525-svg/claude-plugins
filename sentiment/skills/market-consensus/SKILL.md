@@ -1,3 +1,8 @@
+---
+name: market-consensus
+description: /market-consensus
+---
+
 # /market-consensus
 
 What investors currently believe about markets, rates, growth, and risk assets.

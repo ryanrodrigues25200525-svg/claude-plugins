@@ -1,3 +1,8 @@
+---
+name: market-breadth
+description: /market-breadth
+---
+
 # /market-breadth
 
 Evaluate market participation and internal strength.

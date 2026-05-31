@@ -1,3 +1,8 @@
+---
+name: contrarian-ideas
+description: /contrarian-ideas
+---
+
 # /contrarian-ideas
 
 Find opportunities where sentiment is extremely negative but fundamentals are improving.

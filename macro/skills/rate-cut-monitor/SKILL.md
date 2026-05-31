@@ -1,3 +1,8 @@
+---
+name: rate-cut-monitor
+description: /rate-cut-monitor
+---
+
 # /rate-cut-monitor
 
 Track market expectations for rate cuts and policy pivots.

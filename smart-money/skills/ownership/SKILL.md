@@ -1,3 +1,8 @@
+---
+name: ownership
+description: /ownership TICKER
+---
+
 # /ownership TICKER
 
 Institutional ownership analysis.

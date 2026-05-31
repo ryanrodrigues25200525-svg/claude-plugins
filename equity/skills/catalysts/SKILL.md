@@ -1,3 +1,8 @@
+---
+name: catalysts
+description: /catalysts TICKER
+---
+
 # /catalysts TICKER
 
 Identify upcoming events likely to move the stock.

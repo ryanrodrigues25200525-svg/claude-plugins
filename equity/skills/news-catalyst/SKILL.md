@@ -1,3 +1,8 @@
+---
+name: news-catalyst
+description: /news-catalyst TICKER
+---
+
 # /news-catalyst TICKER
 
 Filter news to find only stories that actually move valuation or price.

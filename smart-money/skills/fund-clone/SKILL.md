@@ -1,3 +1,8 @@
+---
+name: fund-clone
+description: /fund-clone FUND
+---
+
 # /fund-clone FUND
 
 Build a clone portfolio based on a hedge fund's highest-conviction holdings.

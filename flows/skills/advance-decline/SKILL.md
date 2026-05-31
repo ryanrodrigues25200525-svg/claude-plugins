@@ -1,3 +1,8 @@
+---
+name: advance-decline
+description: /advance-decline
+---
+
 # /advance-decline
 
 Analyze advance-decline lines and overall market health.

@@ -1,3 +1,8 @@
+---
+name: hype-scan
+description: /hype-scan
+---
+
 # /hype-scan
 
 Find stocks receiving unusual retail attention — determine if justified.

@@ -1,3 +1,8 @@
+---
+name: global-flows
+description: /global-flows
+---
+
 # /global-flows
 
 Track capital movement across equities, bonds, commodities, and currencies globally.

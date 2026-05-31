@@ -1,3 +1,8 @@
+---
+name: growth-nowcast
+description: /growth-nowcast COUNTRY
+---
+
 # /growth-nowcast COUNTRY
 
 Estimate current economic growth before official GDP releases.

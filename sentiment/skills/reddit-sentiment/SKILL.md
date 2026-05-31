@@ -1,3 +1,8 @@
+---
+name: reddit-sentiment
+description: /reddit-sentiment TICKER
+---
+
 # /reddit-sentiment TICKER
 
 Reddit sentiment analysis across finance subreddits.

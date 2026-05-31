@@ -1,3 +1,8 @@
+---
+name: macro-regime
+description: /macro-regime COUNTRY
+---
+
 # /macro-regime COUNTRY
 
 Identify the current macro regime and investment implications.

@@ -1,3 +1,8 @@
+---
+name: recession-dashboard
+description: /recession-dashboard
+---
+
 # /recession-dashboard
 
 Monitor recession indicators in real time.

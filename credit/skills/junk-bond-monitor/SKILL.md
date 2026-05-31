@@ -1,3 +1,8 @@
+---
+name: junk-bond-monitor
+description: /junk-bond-monitor
+---
+
 # /junk-bond-monitor
 
 Track high-yield credit conditions and risk appetite.

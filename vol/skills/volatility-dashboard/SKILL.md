@@ -1,3 +1,8 @@
+---
+name: volatility-dashboard
+description: /volatility-dashboard
+---
+
 # /volatility-dashboard
 
 Track VIX, term structure, realized vol, and volatility regimes.

@@ -1,3 +1,8 @@
+---
+name: gold-strategy
+description: Gold Strategy
+---
+
 # Gold Strategy
 
 Workflow for developing, testing, and evaluating XAU/USD trading strategies.

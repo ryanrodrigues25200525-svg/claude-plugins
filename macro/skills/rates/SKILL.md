@@ -1,3 +1,8 @@
+---
+name: rates
+description: /rates
+---
+
 # /rates
 
 Full rates and yield curve analysis.

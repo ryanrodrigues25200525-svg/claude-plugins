@@ -1,3 +1,8 @@
+---
+name: deep-value
+description: /deep-value
+---
+
 # /deep-value
 
 Screen for potentially undervalued companies with improving fundamentals.

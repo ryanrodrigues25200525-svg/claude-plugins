@@ -1,3 +1,8 @@
+---
+name: credit-risk
+description: /credit-risk
+---
+
 # /credit-risk
 
 Identify deteriorating corporate credit conditions.

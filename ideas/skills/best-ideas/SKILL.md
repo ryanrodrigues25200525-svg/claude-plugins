@@ -1,3 +1,8 @@
+---
+name: best-ideas
+description: /best-ideas
+---
+
 # /best-ideas
 
 Generate highest-conviction investment opportunities across all signals.

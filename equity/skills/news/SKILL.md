@@ -1,3 +1,8 @@
+---
+name: news
+description: /news TICKER
+---
+
 # /news TICKER
 
 Summarize recent news with market impact classification.

@@ -1,3 +1,8 @@
+---
+name: leadership-watch
+description: /leadership-watch
+---
+
 # /leadership-watch
 
 Identify stocks and sectors leading the market.

@@ -1,3 +1,8 @@
+---
+name: whale-moves
+description: /whale-moves
+---
+
 # /whale-moves
 
 Identify significant institutional buying and selling across the market.

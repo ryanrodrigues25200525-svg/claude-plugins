@@ -1,3 +1,8 @@
+---
+name: fundamentals
+description: /fundamentals TICKER
+---
+
 # /fundamentals TICKER
 
 Comprehensive business health report.

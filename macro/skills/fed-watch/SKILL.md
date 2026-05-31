@@ -1,3 +1,8 @@
+---
+name: fed-watch
+description: /fed-watch
+---
+
 # /fed-watch
 
 Analyze recent Fed speeches, FOMC statements, and policy direction.

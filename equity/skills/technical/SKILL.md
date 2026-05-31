@@ -1,3 +1,8 @@
+---
+name: technical
+description: /technical TICKER
+---
+
 # /technical TICKER
 
 Technical analysis — trend, levels, momentum, volatility.

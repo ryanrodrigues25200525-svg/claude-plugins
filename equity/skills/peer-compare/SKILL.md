@@ -1,3 +1,8 @@
+---
+name: peer-compare
+description: /peer-compare TICKER1 TICKER2
+---
+
 # /peer-compare TICKER1 TICKER2
 
 Side-by-side company comparison.

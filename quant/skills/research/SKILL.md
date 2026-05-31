@@ -1,3 +1,8 @@
+---
+name: research
+description: /research TOPIC
+---
+
 # /research TOPIC
 
 Generate institutional-quality research report.

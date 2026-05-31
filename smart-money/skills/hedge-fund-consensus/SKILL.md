@@ -1,3 +1,8 @@
+---
+name: hedge-fund-consensus
+description: /hedge-fund-consensus
+---
+
 # /hedge-fund-consensus
 
 Most commonly owned stocks across major hedge funds.

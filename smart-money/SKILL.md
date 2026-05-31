@@ -1,3 +1,8 @@
+---
+name: smart-money
+description: /smart-money TICKER
+---
+
 # /smart-money TICKER
 
 Combined smart money intelligence — insiders, institutions, hedge funds.

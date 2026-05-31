@@ -1,3 +1,8 @@
+---
+name: sector-rotation
+description: /sector-rotation
+---
+
 # /sector-rotation
 
 Identify sector leadership changes and capital rotation.

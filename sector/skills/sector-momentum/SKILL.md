@@ -1,3 +1,8 @@
+---
+name: sector-momentum
+description: /sector-momentum
+---
+
 # /sector-momentum
 
 Track sector performance leadership and trend strength.

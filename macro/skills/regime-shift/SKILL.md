@@ -1,3 +1,8 @@
+---
+name: regime-shift
+description: /regime-shift
+---
+
 # /regime-shift
 
 Detect major transitions in economic conditions before they become consensus.

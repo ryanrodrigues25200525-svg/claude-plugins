@@ -1,3 +1,8 @@
+---
+name: broken-growth
+description: /broken-growth
+---
+
 # /broken-growth
 
 Identify former growth stocks that may be recovering.

@@ -1,3 +1,8 @@
+---
+name: portfolio-check
+description: /portfolio-check TICKERS
+---
+
 # /portfolio-check TICKERS
 
 Analyze a portfolio for diversification, risk, and factor exposures.

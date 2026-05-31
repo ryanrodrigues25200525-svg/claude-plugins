@@ -1,3 +1,8 @@
+---
+name: options
+description: /options TICKER
+---
+
 # /options TICKER
 
 Options market analysis — unusual activity, IV, skew, positioning.

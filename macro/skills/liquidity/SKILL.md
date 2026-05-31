@@ -1,3 +1,8 @@
+---
+name: liquidity
+description: /liquidity
+---
+
 # /liquidity
 
 Track global liquidity conditions.

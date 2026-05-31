@@ -1,3 +1,8 @@
+---
+name: compounders
+description: /compounders
+---
+
 # /compounders
 
 Find high-quality long-term compounders with durable economics.

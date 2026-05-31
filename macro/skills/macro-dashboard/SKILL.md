@@ -1,3 +1,8 @@
+---
+name: macro-dashboard
+description: /macro-dashboard
+---
+
 # /macro-dashboard
 
 Complete global macro overview — one shot.

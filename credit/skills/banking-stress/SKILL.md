@@ -1,3 +1,8 @@
+---
+name: banking-stress
+description: /banking-stress
+---
+
 # /banking-stress
 
 Monitor indicators of financial system stress.

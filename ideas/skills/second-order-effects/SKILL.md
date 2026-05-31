@@ -1,3 +1,8 @@
+---
+name: second-order-effects
+description: /second-order-effects EVENT
+---
+
 # /second-order-effects EVENT
 
 Analyze indirect market impacts of a major event.

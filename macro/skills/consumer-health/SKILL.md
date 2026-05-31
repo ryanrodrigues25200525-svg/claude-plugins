@@ -1,3 +1,8 @@
+---
+name: consumer-health
+description: /consumer-health COUNTRY
+---
+
 # /consumer-health COUNTRY
 
 Assess consumer spending power, confidence, debt, and savings.

@@ -1,3 +1,8 @@
+---
+name: labor-market
+description: /labor-market COUNTRY
+---
+
 # /labor-market COUNTRY
 
 Full labor market analysis.

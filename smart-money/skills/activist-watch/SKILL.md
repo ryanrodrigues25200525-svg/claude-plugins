@@ -1,3 +1,8 @@
+---
+name: activist-watch
+description: /activist-watch
+---
+
 # /activist-watch
 
 Track activist investors across the market.

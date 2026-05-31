@@ -1,3 +1,8 @@
+---
+name: vol-crush-opportunities
+description: /vol-crush-opportunities
+---
+
 # /vol-crush-opportunities
 
 Find stocks likely to experience post-event volatility collapses.

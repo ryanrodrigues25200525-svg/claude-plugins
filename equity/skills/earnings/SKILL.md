@@ -1,3 +1,8 @@
+---
+name: earnings
+description: /earnings TICKER
+---
+
 # /earnings TICKER
 
 Deep earnings review for any publicly traded company.

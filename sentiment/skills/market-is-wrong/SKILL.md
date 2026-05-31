@@ -1,3 +1,8 @@
+---
+name: market-is-wrong
+description: /market-is-wrong
+---
+
 # /market-is-wrong
 
 Find consensus beliefs and identify data that challenges them.

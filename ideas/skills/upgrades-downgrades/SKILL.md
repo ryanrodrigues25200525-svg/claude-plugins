@@ -1,3 +1,8 @@
+---
+name: upgrades-downgrades
+description: /upgrades-downgrades
+---
+
 # /upgrades-downgrades
 
 Track analyst rating changes and explain market impact.

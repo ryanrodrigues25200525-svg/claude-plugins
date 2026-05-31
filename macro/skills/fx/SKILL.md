@@ -1,3 +1,8 @@
+---
+name: fx
+description: /fx PAIR
+---
+
 # /fx PAIR
 
 Currency analysis — rates, macro, flows, positioning.

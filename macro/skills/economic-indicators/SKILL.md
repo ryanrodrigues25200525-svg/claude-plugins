@@ -1,3 +1,8 @@
+---
+name: economic-indicators
+description: /economic-indicators COUNTRY
+---
+
 # /economic-indicators COUNTRY
 
 Full economic dashboard for any country.

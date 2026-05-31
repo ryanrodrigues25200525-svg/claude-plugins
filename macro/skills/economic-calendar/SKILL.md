@@ -1,3 +1,8 @@
+---
+name: economic-calendar
+description: /economic-calendar
+---
+
 # /economic-calendar
 
 Upcoming economic releases with expected market impact.

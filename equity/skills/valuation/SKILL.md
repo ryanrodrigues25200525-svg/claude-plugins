@@ -1,3 +1,8 @@
+---
+name: valuation
+description: /valuation TICKER
+---
+
 # /valuation TICKER
 
 Estimate fair value using multiples and peer comparisons.

@@ -1,3 +1,8 @@
+---
+name: street-consensus
+description: /street-consensus TICKER
+---
+
 # /street-consensus TICKER
 
 Full analyst consensus — ratings, targets, estimates, and dispersion.

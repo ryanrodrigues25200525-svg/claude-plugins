@@ -1,3 +1,8 @@
+---
+name: new-highs-lows
+description: /new-highs-lows
+---
+
 # /new-highs-lows
 
 Monitor expansion or contraction in market leadership.

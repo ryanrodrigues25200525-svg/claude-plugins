@@ -1,3 +1,8 @@
+---
+name: backtest-idea
+description: /backtest-idea STRATEGY
+---
+
 # /backtest-idea STRATEGY
 
 Convert a discretionary investment idea into a systematic strategy ready for testing.

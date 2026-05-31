@@ -1,3 +1,8 @@
+---
+name: crowded-trades
+description: /crowded-trades
+---
+
 # /crowded-trades
 
 Identify stocks with extremely high hedge fund ownership and crowding risk.

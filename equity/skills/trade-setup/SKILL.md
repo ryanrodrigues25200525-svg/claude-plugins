@@ -1,3 +1,8 @@
+---
+name: trade-setup
+description: /trade-setup TICKER
+---
+
 # /trade-setup TICKER
 
 Complete trading plan with entry, exit, and risk parameters.

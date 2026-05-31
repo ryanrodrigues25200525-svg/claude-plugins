@@ -1,3 +1,8 @@
+---
+name: filings
+description: /filings TICKER
+---
+
 # /filings TICKER
 
 Analyze recent SEC filings — 10-K, 10-Q, 8-K, S-1.

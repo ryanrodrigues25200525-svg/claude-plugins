@@ -1,3 +1,8 @@
+---
+name: sector-valuations
+description: /sector-valuations
+---
+
 # /sector-valuations
 
 Compare sector valuations versus historical averages.

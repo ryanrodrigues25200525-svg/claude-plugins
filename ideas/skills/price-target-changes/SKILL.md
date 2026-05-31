@@ -1,3 +1,8 @@
+---
+name: price-target-changes
+description: /price-target-changes
+---
+
 # /price-target-changes
 
 Monitor major price target revisions and consensus expectations.

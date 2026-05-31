@@ -1,3 +1,8 @@
+---
+name: concentration-risk
+description: /concentration-risk
+---
+
 # /concentration-risk
 
 Identify excessive position, sector, or factor concentration.

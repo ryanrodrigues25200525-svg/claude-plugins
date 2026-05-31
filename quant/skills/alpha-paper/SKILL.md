@@ -1,3 +1,8 @@
+---
+name: alpha-paper
+description: /alpha-paper TOPIC
+---
+
 # /alpha-paper TOPIC
 
 Search academic literature and convert findings into actionable investment ideas.

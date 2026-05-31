@@ -1,3 +1,8 @@
+---
+name: economic-surprises
+description: /economic-surprises
+---
+
 # /economic-surprises
 
 Track economic data versus expectations — Citi Surprise Index equivalent.

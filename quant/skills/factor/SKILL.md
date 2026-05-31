@@ -1,3 +1,8 @@
+---
+name: factor
+description: /factor TICKER
+---
+
 # /factor TICKER
 
 Analyze factor exposures for a stock or portfolio.

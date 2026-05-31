@@ -1,3 +1,8 @@
+---
+name: earnings-transcript
+description: /earnings-transcript TICKER
+---
+
 # /earnings-transcript TICKER
 
 Summarize earnings call transcript and detect tone changes vs prior quarters.

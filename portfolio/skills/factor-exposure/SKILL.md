@@ -1,3 +1,8 @@
+---
+name: factor-exposure
+description: /factor-exposure
+---
+
 # /factor-exposure
 
 Determine exposure to common investment factors across a portfolio.

@@ -1,3 +1,8 @@
+---
+name: inflation
+description: /inflation COUNTRY
+---
+
 # /inflation COUNTRY
 
 Deep inflation analysis — components, trends, outlook.

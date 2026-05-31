@@ -1,3 +1,8 @@
+---
+name: redflags
+description: /redflags TICKER
+---
+
 # /redflags TICKER
 
 Automated risk scanner for financial red flags.

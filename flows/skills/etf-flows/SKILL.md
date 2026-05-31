@@ -1,3 +1,8 @@
+---
+name: etf-flows
+description: /etf-flows
+---
+
 # /etf-flows
 
 Track ETF inflows/outflows — where institutional money is moving.

@@ -1,3 +1,8 @@
+---
+name: factor-rotation
+description: /factor-rotation
+---
+
 # /factor-rotation
 
 Identify which factors are outperforming — value, growth, quality, momentum, low vol.

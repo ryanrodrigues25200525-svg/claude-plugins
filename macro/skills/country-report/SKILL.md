@@ -1,3 +1,8 @@
+---
+name: country-report
+description: /country-report COUNTRY
+---
+
 # /country-report COUNTRY
 
 Institutional-style macroeconomic country report.

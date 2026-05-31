@@ -1,3 +1,8 @@
+---
+name: sector-earnings
+description: /sector-earnings
+---
+
 # /sector-earnings
 
 Analyze earnings trends across all sectors.

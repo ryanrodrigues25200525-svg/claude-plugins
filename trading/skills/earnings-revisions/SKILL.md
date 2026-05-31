@@ -1,3 +1,8 @@
+---
+name: earnings-revisions
+description: /earnings-revisions
+---
+
 # /earnings-revisions
 
 Track analyst estimate revisions and earnings expectation momentum.

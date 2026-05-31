@@ -1,3 +1,8 @@
+---
+name: analyst-vs-reality
+description: /analyst-vs-reality
+---
+
 # /analyst-vs-reality
 
 Compare analyst forecasts against actual company performance.

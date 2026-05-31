@@ -1,3 +1,8 @@
+---
+name: recession-risk
+description: /recession-risk COUNTRY
+---
+
 # /recession-risk COUNTRY
 
 Estimate recession probability using leading indicators.

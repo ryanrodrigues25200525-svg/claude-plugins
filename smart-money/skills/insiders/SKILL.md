@@ -1,3 +1,8 @@
+---
+name: insiders
+description: /insiders TICKER
+---
+
 # /insiders TICKER
 
 Insider buying and selling activity analysis.

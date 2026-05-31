@@ -1,3 +1,8 @@
+---
+name: sector-report
+description: /sector-report SECTOR
+---
+
 # /sector-report SECTOR
 
 Full sector research report.

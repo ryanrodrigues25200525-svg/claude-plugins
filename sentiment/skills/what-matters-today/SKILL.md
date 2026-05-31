@@ -1,3 +1,8 @@
+---
+name: what-matters-today
+description: /what-matters-today
+---
+
 # /what-matters-today
 
 Daily market briefing — most important developments across all markets.

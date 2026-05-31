@@ -1,3 +1,8 @@
+---
+name: gamma-watch
+description: /gamma-watch
+---
+
 # /gamma-watch
 
 Analyze dealer gamma positioning and its effect on market behavior.

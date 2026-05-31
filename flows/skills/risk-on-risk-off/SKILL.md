@@ -1,3 +1,8 @@
+---
+name: risk-on-risk-off
+description: /risk-on-risk-off
+---
+
 # /risk-on-risk-off
 
 Measure whether markets favour growth/cyclicals or defensives/bonds/cash.

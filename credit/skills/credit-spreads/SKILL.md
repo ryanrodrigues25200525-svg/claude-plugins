@@ -1,3 +1,8 @@
+---
+name: credit-spreads
+description: /credit-spreads
+---
+
 # /credit-spreads
 
 Analyze corporate bond spreads and stress levels.

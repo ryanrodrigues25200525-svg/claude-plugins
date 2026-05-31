@@ -1,3 +1,8 @@
+---
+name: spin-off-watch
+description: /spin-off-watch
+---
+
 # /spin-off-watch
 
 Monitor announced and pending corporate spin-offs.

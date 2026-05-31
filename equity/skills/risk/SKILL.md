@@ -1,3 +1,8 @@
+---
+name: risk
+description: /risk TICKER
+---
+
 # /risk TICKER
 
 Full investment risk profile analysis.
