@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins",
-  "description": "Custom finance plugins for Claude Code",
+  "name": "ryan-finance-plugins",
+  "description": "Ryan Rodrigues custom finance plugins for Claude Code",
   "owner": {
     "name": "Ryan Rodrigues",
     "email": "rodriguesalfred@yahoo.com"
