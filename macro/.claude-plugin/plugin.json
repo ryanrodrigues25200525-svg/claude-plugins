@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "macro",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Economics & macro \u2014 indicators, central banks, rates, inflation, recession",
   "author": {
     "name": "Ryan Rodrigues",

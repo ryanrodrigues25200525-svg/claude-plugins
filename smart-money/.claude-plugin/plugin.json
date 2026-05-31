@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "smart-money",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Institutional tracking \u2014 insiders, 13F, hedge funds, activists",
   "author": {
     "name": "Ryan Rodrigues",

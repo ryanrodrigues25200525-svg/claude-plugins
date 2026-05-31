@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "quant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quant & research \u2014 factor models, backtesting, strategy building",
   "author": {
     "name": "Ryan Rodrigues",

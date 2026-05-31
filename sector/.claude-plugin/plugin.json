@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "sector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sector analysis \u2014 fundamentals, earnings, valuations, momentum",
   "author": {
     "name": "Ryan Rodrigues",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "trading",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Trading intelligence \u2014 options, earnings, guidance, M&A, corporate events",
   "author": {
     "name": "Ryan Rodrigues",
